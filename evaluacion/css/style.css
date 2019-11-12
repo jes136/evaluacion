@@ -1,0 +1,36 @@
+html{
+    font-size: 65.5%;
+}
+.contenedor-header{
+    background: grey;
+    height: 50rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    align-self: center;
+}
+.contenedor{
+    background: yellow;
+    width: 40rem;
+    height: 20rem;
+    background-position: center;
+    align-self: center;
+    text-align: center;
+
+}
+.azul{
+    text-align: center;
+    background: blue;
+    width: 40rem;
+    height: 20rem;
+    background-position: center;
+    align-self: center;
+}
+.rojo{
+    text-align: center;
+    background: red;
+    width: 40rem;
+    height: 20rem;
+    background-position: center;
+    align-self: center;
+}
